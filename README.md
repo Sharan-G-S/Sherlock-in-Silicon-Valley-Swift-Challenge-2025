@@ -88,7 +88,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 📧 Contact: [sharangs08@gmail.com]  
 🔗 GitHub: [github.com/Sharan-G-S](https://github.com/Sharan-G-S)  
-🌐 Portfolio: [your-portfolio-link.com]  
+🌐 LinkedIn: [www.linkedin.com/in/sharan-g-s]  
 
 
 **Developed with 💚 by Sharan G S**  
